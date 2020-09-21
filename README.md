@@ -7,8 +7,8 @@ Add it in your root build.gradle at the end of repositories:
 
 ```bash
 allprojects {
-		repositories {
-			...
+	repositories {
+
 			maven { url 'https://jitpack.io' }
 		}
 	}
@@ -19,6 +19,6 @@ Step 2. Add the dependency
 
 ```bash
 dependencies {
-	        implementation 'com.github.ahmed-bassiouny:TheChefzLibrary:Tag'
+	        implementation 'com.github.ahmed-bassiouny:TheChefzLibrary:1.0'
 	}
 ```
