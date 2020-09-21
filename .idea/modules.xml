@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChefzLibrary/ChefzLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/ChefzLibrary/ChefzLibrary.iml" group="TheChefzLibrary/ChefzLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TheChefzLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/TheChefzLibrary.iml" group="TheChefzLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TheChefzLibrary/app" />
+    </modules>
+  </component>
+</project>
