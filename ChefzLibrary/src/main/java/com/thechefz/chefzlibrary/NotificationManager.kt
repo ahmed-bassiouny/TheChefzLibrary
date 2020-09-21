@@ -8,7 +8,7 @@ import android.net.Uri
 import android.os.Build
 import androidx.annotation.DrawableRes
 import androidx.core.app.NotificationCompat
-import com.nextwo.the_chefz.helper.extensions.toBitmap
+import com.thechefz.chefzlibrary.extensions.toBitmap
 
 class NotificationManager(private val application: Application) {
 
